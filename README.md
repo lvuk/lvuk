@@ -1,6 +1,6 @@
 ## Welcome to my Github Profile, I'm Luka👋
 
-### 🧑🏼‍🦱Bio
+## 🧑🏼‍🦱 Bio
 ```swift
 var body: some View {
   let name: String = "Luka"
@@ -12,16 +12,16 @@ var body: some View {
   let interests: [String] = ["iOS", "Backend", "Blockchain"]
 }
 ```
-### 🎓Education
+## 🎓 Education
 - **Bachelor of Science in Computer Science, [FERIT](https://www.ferit.unios.hr/)**
 - **Master of Science in Computer Science (Ongoing), [FERIT](https://www.ferit.unios.hr/)**
 
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 ![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvuk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvuk&layout=compact&theme=radical)
 
-## Technologies I Use
+## 🛠️ Technologies I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,7 +39,7 @@ var body: some View {
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
-## Contact Me
+## 📣 Contact Me
 
 Feel free to explore my repositories and connect with me!
 <p align="left">
