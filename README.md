@@ -13,8 +13,8 @@ var body: some View {
 }
 ```
 ## 🎓 Education
-- **Bachelor of Science in Computer Science, [FERIT](https://www.ferit.unios.hr/)**
-- **Master of Science in Computer Science (Ongoing), [FERIT](https://www.ferit.unios.hr/)**
+- **Bachelor Degree in Computer Science, [FERIT](https://www.ferit.unios.hr/)**
+- **Masters Degree in Software Engineering (Ongoing), [FERIT](https://www.ferit.unios.hr/)**
 
 
 ## 📊 GitHub Statistics
