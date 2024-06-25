@@ -13,9 +13,8 @@ var body: some View {
 }
 ```
 ## 🎓 Education
-- **Bachelor Degree in Computer Science, [FERIT](https://www.ferit.unios.hr/)**
-- **Masters Degree in Software Engineering (Ongoing), [FERIT](https://www.ferit.unios.hr/)**
-
+- **Bachelor's Degree in Computer Science at [FERIT Osijek](https://www.ferit.unios.hr/)**
+- **Final year of Master's Degree in Software Engineering at [FERIT Osijek](https://www.ferit.unios.hr/)**
 
 ## 📊 GitHub Statistics
 ![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvuk&show_icons=true&theme=radical)
