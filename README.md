@@ -4,17 +4,17 @@
 ```swift
 var body: some View {
   let name: String = "Luka"
-  let age: Int = 23
+  let age: Int = 24
   let from: String = 🇭🇷"Croatia"
   let located: String = 📍"Osijek"
   
-  let occupation: String = "Software Engineering student"
-  let interests: [String] = ["iOS", "Backend", "Blockchain"]
+  let occupation: String = "Software Engineer"
+  let interests: [String] = ["iOS", "Backend", "AWS"]
 }
 ```
 ## 🎓 Education
 - **Bachelor's Degree in Computer Science at [FERIT Osijek](https://www.ferit.unios.hr/)**
-- **Final year of Master's Degree in Software Engineering at [FERIT Osijek](https://www.ferit.unios.hr/)**
+- **Master's Degree in Software Engineering at [FERIT Osijek](https://www.ferit.unios.hr/)**
 
 ## 📊 GitHub Statistics
 ![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvuk&show_icons=true&theme=radical)
