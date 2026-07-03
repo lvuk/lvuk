@@ -4,7 +4,7 @@
 ```swift
 var body: some View {
   let name: String = "Luka"
-  let age: Int = 24
+  let age: Int = 25
   let from: String = 🇭🇷"Croatia"
   let located: String = 📍"Osijek"
   
@@ -13,7 +13,6 @@ var body: some View {
 }
 ```
 ## 🎓 Education
-- **Bachelor's Degree in Computer Science at [FERIT Osijek](https://www.ferit.unios.hr/)**
 - **Master's Degree in Software Engineering at [FERIT Osijek](https://www.ferit.unios.hr/)**
 
 ## 📊 GitHub Statistics
