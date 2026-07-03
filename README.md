@@ -15,10 +15,6 @@ var body: some View {
 ## 🎓 Education
 - **Master's Degree in Software Engineering at [FERIT Osijek](https://www.ferit.unios.hr/)**
 
-## 📊 GitHub Statistics
-![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvuk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvuk&layout=compact&theme=radical)
-
 ## 🛠️ Technologies I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
